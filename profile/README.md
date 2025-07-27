@@ -38,9 +38,9 @@ StackOps is my way of learning in public — building, breaking, fixing, and doc
 
 ## 🔗 Let’s Connect
 
-- 🧠 GitHub: [@hemant-username](https://github.com/HATAKEkakshi)  
+- 🧠 GitHub: [@HATAKEkakshi](https://github.com/HATAKEkakshi)  
 - 📝 Medium :[@Medium](https://medium.com/@hemantkumarhk)  
-- 💼 LinkedIn: https://www.linkedin.com/in/hemant-kumar-461867281/  
+- 💼 LinkedIn: [@Linkedin](https://www.linkedin.com/in/hemant-kumar-461867281/) 
 
 ---
 
